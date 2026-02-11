@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Ms. U",
+  "base_artist": "Kvi Baba",
+  "createdAt": "2026-02-11T13:57:06.028395Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mini Ms. U",
+      "artist": "IMOGEN",
+      "has_synced": false,
+      "path": "select/01_Mini_Ms._U_IMOGEN.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Funky Fresh Dressed feat. Ms. Jade",
+      "artist": "Missy Elliott",
+      "has_synced": false,
+      "path": "select/02_Funky_Fresh_Dressed_feat._Ms._Jade_Missy_Elliott.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Southern Hospitality (Remix) (feat. Ms. Dynamite & Maxwell D)",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/03_Southern_Hospitality_(Remix)_(feat._Ms._Dynamite_&_Maxwell_D)_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bruk Out (Feat. T.O.K & Ms. Thing)",
+      "artist": "Major Lazer",
+      "has_synced": true,
+      "path": "select/04_Bruk_Out_(Feat._T.O.K_&_Ms._Thing)_Major_Lazer.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fire (Feat. Ms. Dynamite)",
+      "artist": "Magnetic Man",
+      "has_synced": false,
+      "path": "select/05_Fire_(Feat._Ms._Dynamite)_Magnetic_Man.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Funky Fresh Dressed (feat. Ms. Jade)",
+      "artist": "Missy Elliott",
+      "has_synced": false,
+      "path": "select/06_Funky_Fresh_Dressed_(feat._Ms._Jade)_Missy_Elliott.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ms. Fat Booty",
+      "artist": "Mos Def",
+      "has_synced": true,
+      "path": "select/07_Ms._Fat_Booty_Mos_Def.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sweat [feat. Laidback Luke & Ms. Dynamite]",
+      "artist": "Major Lazer, Ms. Dynamite & Laidback Luke",
+      "has_synced": true,
+      "path": "select/08_Sweat_[feat._Laidback_Luke_&_Ms._Dynamite]_Major_Lazer,_Ms._Dynamite_&_Laidback_Luke.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "When You Hear The Bassline (Feat. Ms. Thing)",
+      "artist": "Major Lazer",
+      "has_synced": true,
+      "path": "select/09_When_You_Hear_The_Bassline_(Feat._Ms._Thing)_Major_Lazer.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ms. Jackson",
+      "artist": "OutKast",
+      "has_synced": true,
+      "path": "select/10_Ms._Jackson_OutKast.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "No Money no Love (feat. Elliphant & Ms. Dynamite)",
+      "artist": "David Guetta feat. Showtek, Elliphant & Ms. Dynamite",
+      "has_synced": true,
+      "path": "select/11_No_Money_no_Love_(feat._Elliphant_&_Ms._Dynamite)_David_Guetta_feat._Showtek,_Elliphant_&_Ms._Dynamite.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "No Money no Love (feat. Elliphant & Ms. Dynamite)",
+      "artist": "David Guetta",
+      "has_synced": true,
+      "path": "select/12_No_Money_no_Love_(feat._Elliphant_&_Ms._Dynamite)_David_Guetta.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ms. & Mr. Little Ones (Live/1995)",
+      "artist": "Stevie Wonder",
+      "has_synced": true,
+      "path": "select/13_Ms._&_Mr._Little_Ones_(Live_1995)_Stevie_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ms. & Mr. Little Ones (Live\u00001995)",
+      "artist": "Stevie Wonder",
+      "has_synced": true,
+      "path": "select/14_Ms._&_Mr._Little_Ones_(Live\u00001995)_Stevie_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ms. Parker",
+      "artist": "Chance the Rapper feat. Jeremih",
+      "has_synced": true,
+      "path": "select/15_Ms._Parker_Chance_the_Rapper_feat._Jeremih.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ms. Parker",
+      "artist": "Jeremih & Chance the Rapper",
+      "has_synced": true,
+      "path": "select/16_Ms._Parker_Jeremih_&_Chance_the_Rapper.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Nobody (feat. Ms. Lauryn Hill)",
+      "artist": "Nas feat. Ms. Lauryn Hill",
+      "has_synced": true,
+      "path": "select/17_Nobody_(feat._Ms._Lauryn_Hill)_Nas_feat._Ms._Lauryn_Hill.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Nobody (feat. Ms. Lauryn Hill)",
+      "artist": "Nas",
+      "has_synced": true,
+      "path": "select/18_Nobody_(feat._Ms._Lauryn_Hill)_Nas.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Ms",
+      "artist": "alt-J",
+      "has_synced": true,
+      "path": "select/19_Ms_alt-J.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ms. U",
+      "artist": "Kvi Baba, idom, SALU",
+      "has_synced": false,
+      "path": "select/pl_01_Ms._U_Kvi_Baba,_idom,_SALU.txt"
+    }
+  ]
+}
